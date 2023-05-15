@@ -1,2 +1,4 @@
-provider: generic
-url: 'test.com'
+version: 1.1.0
+path: TestApp Setup 1.1.0.exe
+sha512: Dj51I0q8aPQ3ioaz9LMqGYujAYRbDNblAQbodDRXAMxmY6hsHqEl3F6SvhfJj5oPhcqdX1ldsgEvfMNXGUXBIw==
+stagingPercentage: 10
